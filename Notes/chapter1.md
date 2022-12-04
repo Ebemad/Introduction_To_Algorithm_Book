@@ -9,3 +9,6 @@
 by using Algorithms : input : A1,A2,A3,.......
 then the Alogrithm that you will find will sort it in the best way
 ouput : A1',A2',A3',..........
+and also exist in many software applictions only happen with the aid of clever Algorithm
+# Note:
+## An Algorithm is concedered to be correct if , for every input instance it halts the correct output
